@@ -32,9 +32,16 @@ Once osTicket is up and running, we can begin the Post Installation Setup.
 
 **1.) Configuring Roles**
 
-  -Once logged in, go to Admin Panel
+According to the osTicket website, "Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments."
+
+  -To configure roles, first step is to log in and go to Admin Panel
 
 ![image](https://github.com/akingsley22/post-install-config/assets/138138839/3f84f598-b837-46e8-8a49-fffa16a9a67f)
+
+  -Then go to Agents -> Roles
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/05af669e-a544-45dc-8acb-cac66c64dc56)
+
 
 </p>
 <p>
