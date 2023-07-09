@@ -76,6 +76,9 @@ According to the osTicket website, "Roles are the permissions granted to Agents 
 
 ![image](https://github.com/akingsley22/post-install-config/assets/138138839/16aa317f-23c3-4248-b532-9bdf75609a0c)
 
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/ce5a81b1-fede-4b0b-a6c5-ab2bf18069a8)
+
+
 **4.) Configuring Agents**
 
   -To configure Agents, go to Admin panel -> Agents -> Agents -> Add New Agent
