@@ -42,6 +42,10 @@ According to the osTicket website, "Roles are the permissions granted to Agents 
 
 ![image](https://github.com/akingsley22/post-install-config/assets/138138839/05af669e-a544-45dc-8acb-cac66c64dc56)
 
+  -Click on "Add New Role" and add your role with permissions.
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/5642dc30-0a50-494a-b333-dba380fce762)
+
 
 </p>
 <p>
