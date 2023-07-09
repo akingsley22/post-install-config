@@ -57,6 +57,31 @@ According to the osTicket website, "Roles are the permissions granted to Agents 
 
 ![image](https://github.com/akingsley22/post-install-config/assets/138138839/47e49061-63ff-4b73-87ac-0c975fef6879)
 
+  -Click "Add New Department".
+
+  ![image](https://github.com/akingsley22/post-install-config/assets/138138839/bcf110a6-b13d-4b35-a245-537995ec8833)
+
+**3.) Configuring Teams**
+
+  -To configure Teams, go to Admin panel
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/3f84f598-b837-46e8-8a49-fffa16a9a67f)
+
+  -Then go to Agents -> Teams
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/e21b537d-4bf4-4c33-b6e8-dcc5f046aba2)
+
+
+  -Now click "Add New Team" and fill out the appropriate information. After creating teams, you can now add Agents to the teams by clicking their name from your Agents list and clicking the corresponding box next to the team you want them top be in
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/16aa317f-23c3-4248-b532-9bdf75609a0c)
+
+**4.) Configuring Agents**
+
+  -To configure Agents, go to Admin panel -> Agents -> Agents -> Add New Agent
+
+  ![image](https://github.com/akingsley22/post-install-config/assets/138138839/e9128043-974a-43a2-bbe8-18450bfd9fcc)
+
 
 
 </p>
