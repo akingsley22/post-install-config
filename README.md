@@ -47,7 +47,21 @@ According to the osTicket website, "Roles are the permissions granted to Agents 
 ![image](https://github.com/akingsley22/post-install-config/assets/138138839/5642dc30-0a50-494a-b333-dba380fce762)
 
 
+**2.) Configuring Departments**
+
+  -To configure departments, go to Admin Panel
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/3f84f598-b837-46e8-8a49-fffa16a9a67f)
+
+  -Then go to Agents -> Departments
+
+![image](https://github.com/akingsley22/post-install-config/assets/138138839/47e49061-63ff-4b73-87ac-0c975fef6879)
+
+
+
 </p>
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
